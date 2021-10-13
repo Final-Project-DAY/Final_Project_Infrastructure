@@ -1,6 +1,6 @@
 #         Final_Project_Infrastructure
 
-<img src= https://github.com/Final-Project-DAY/Final_Project_Infrastructure/blob/master/Images/Poster.jpg width="700" height="600"/>
+<img src= https://github.com/Final-Project-DAY/Final_Project_Infrastructure/blob/master/Images/Poster.jpg width="600" height="500"/>
 
 The general purpose of this final project is to explore whether malicious traffic classification system’s accuracy will drop due to the use of new internet protocols.   
 **Our assumption is that many dangerous malware programs already exist in many victims' machines which communicating through a C&C.**   
